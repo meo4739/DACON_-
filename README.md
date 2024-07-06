@@ -2,8 +2,11 @@
 ### 목표
 DACON 대회 데이터를 활용하여 자유롭게 데이터 분석 및 아이디어 도출
 
-### 데이터 소개<br>
-
+#### 데이터 소개<br>
+1. competition_info.csv
+2. codeshare_log.csv
+3. submission_log.csv
+4. talk_log.csv
 
 #### 데이터 출처 
 - DACON : https://dacon.io/competitions/official/236198/overview/description
