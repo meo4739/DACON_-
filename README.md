@@ -11,3 +11,9 @@ DACON 대회 데이터를 활용하여 자유롭게 데이터 분석 및 아이�
 
 #### 데이터 출처 
 - DACON : https://dacon.io/competitions/official/236198/overview/description
+
+#### 분석방법
+- 데이터 탐색 진행
+- "수치 데이터 vs 수치 데이터" : 시각화 및 pearson 상관계수 확인
+- "범주 vs 수치" : 시각화 및 t-test, ANOVA 검정 수행
+- 군집분석 - seaborn의 pairplot을 통한 관측
